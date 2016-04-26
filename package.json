@@ -1,0 +1,15 @@
+{
+  "name": "cni-transform-browserify",
+  "version": "0.0.1",
+  "description": "Browserify transform for clean-node-installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Riedesel <mark@klowner.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^10.0.0",
+    "through2": "^2.0.0"
+  }
+}
